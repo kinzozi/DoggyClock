@@ -1,0 +1,84 @@
+body{
+  background-color: #DDD78D;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/*Page Top */
+header{
+  text-align: center;
+  padding: 20px;
+  color: #60594D;
+}
+
+#divhead{
+  text-align: left;
+  display: inline-block;
+  letter-spacing: 4px;
+  color:  #60594D;
+}
+
+#addReminder {
+  position: sticky;
+  padding: 3px;
+  display: inline-block;
+  float: right;
+  text-decoration: none;
+
+}
+
+#addReminder a{
+  text-decoration: none;
+  color: #60594D;
+}
+
+/*End Page Top */
+
+
+/*-------------------
+CENTER GRID SECTION
+-------------------*/
+
+.container{
+  width: auto;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid #DCBF85;
+  border-radius: 10px;
+  background-color: #DCBF85;
+  margin: auto;
+}
+
+
+
+/*-----------------------
+END CENTER GRID SECTION
+-----------------------*/
+
+
+/*Page Bottom */
+.datetime{
+  font-size: 30px;
+  color: #60594D;
+  cursor: pointer;
+  text-align: center;
+  letter-spacing: 5px;
+  position: static;
+
+}
+
+
+
+footer{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 10px;
+  position: fixed;
+  bottom: 0;
+  display: none;
+}
+/*End Page Bottom */
+
+
+/* Scrollbar */
+::-webkit-scrollbar{
+  width: 12px;
+}

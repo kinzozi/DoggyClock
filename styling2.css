@@ -1,0 +1,49 @@
+body{
+  background-color: #DDD78D;
+  font-family: 'Quicksand', sans-serif;
+}
+
+header{
+  text-align: center;
+  color:  #60594D;
+}
+backArrow{
+  float: left;
+}
+
+main{
+
+  color:  #60594D;
+  text-align: center;
+}
+
+#inputName{
+  background-color: #60594D;
+  border-style: none;
+  border-radius: 20px;
+  text-align: center;
+  height: 50px;
+  width: auto;
+  font-family: 'Quicksand', sans-serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+  color: white;
+}
+
+#TimeSel{
+  background-color: #60594D;
+  border-style: none;
+  border-radius: 20px;
+  overflow-y: auto;
+  text-align: center;
+  padding: 5px;
+  width: 100px;
+  background-image: none;
+  font-family: 'Quicksand', sans-serif;
+  color:#60594D;
+
+}
+
+.slcDiv{
+  color:#60594D;
+}
